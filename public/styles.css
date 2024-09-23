@@ -103,3 +103,71 @@ p{
   flex: 1;
   flex-direction: column;
 }
+
+#row1DividerP{
+  margin: 3.5px;
+}
+
+#name{
+  font-size: 25px;font-weight: bolder;margin-bottom: 0;
+}
+
+#job{
+  font-size: 25px;margin-top: 0;
+}
+
+#email{
+  margin-bottom: 0.0;padding-bottom: 5px;font-size: 14px; padding-top: 20px;
+}
+
+#git{
+  margin-bottom: 0;margin-top: 0;font-size: 14px;
+}
+
+#mobile{
+  margin-top: 0;padding-top: 5px; font-size: 14px;
+}
+
+.pProfP{
+  font-weight: bold;font-style: italic;font-size: 20px;
+}
+
+.rowPDivs{
+  margin: 1px;
+}
+
+.row4Title{
+  font-weight: bold;font-size: 20px; margin-bottom: 0;
+}
+
+.degree{
+  margin-bottom: 0;
+}
+
+.yearAndGpa{
+  margin-bottom: 0; margin-top: 10px;
+}
+
+#personalProfileDescEducation{
+  font-size: 18px; display: flex; flex-direction: column;
+}
+
+.keySkilltop{
+  margin-bottom: 5px;
+}
+
+.keySkillelse{
+  margin-bottom: 5px; margin-top: 0;
+}
+
+#personalProfileDesc1{
+  font-size: 18px;
+}
+
+#personalProfileDesc2{
+  font-size: 18px; display: flex; flex-direction: column;
+}
+
+#lastOne{
+  font-size: 18px; display: flex; flex-direction: row;
+}
