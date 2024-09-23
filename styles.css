@@ -1,0 +1,173 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0px;
+}
+
+.row1 {
+  display: flex;
+  flex: 5;
+  background: rgb(245, 245, 245);
+  padding: 20px;
+  flex-direction: row;
+  vertical-align: middle;
+  padding-bottom: 50px;
+  margin-top: 0px;
+  
+  
+}
+.row2 {
+  display: flex;
+  flex: 3; /* Flex-grow: 1 */
+  flex-direction: row;
+  margin-left: 10px;
+
+  
+}
+.row3 {
+  display: flex;
+  flex: 10; /* Flex-grow: 1 */
+  
+}
+.row4 {
+  display: flex;
+  flex: 2; /* Flex-grow: 1 */
+  
+}
+.row5 {
+  display: flex;
+  flex: 15; /* Flex-grow: 1 */
+  background-color: aqua;
+}
+
+.name1 {
+  font-weight: 500;
+  font-size: 20;
+}
+
+.nameAndJob{
+  display: flex;
+  flex:5;
+  align-items: left;
+  flex-direction: column;
+}
+
+.row1Block {
+  flex:12;
+}
+
+.contactInfo{
+  display: flex;
+  flex:5;
+  flex-direction: column;
+  
+  
+}
+
+.row1Divider{
+  display:flex;
+  flex:1;
+  background-color: rgb(254, 181, 44);
+  flex-direction: column;
+}
+
+.personalProfile{
+  display: flex;
+  flex:3;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+.personalProfileDesc{
+  display: flex;
+  flex:13;
+  padding: 20px;
+}
+
+.row2Divider{
+  display: flex;
+  background-color: darkgray;
+  flex:2;
+  margin-right: 20px;
+  margin-left: 20px;
+
+}
+
+.row4Col{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+#row1DividerP{
+  margin: 3.5px;
+}
+
+#name{
+  font-size: 25px;font-weight: bolder;margin-bottom: 0;
+}
+
+#job{
+  font-size: 25px;margin-top: 0;
+}
+
+#email{
+  margin-bottom: 0.0;padding-bottom: 5px;font-size: 14px; padding-top: 20px;
+}
+
+#git{
+  margin-bottom: 0;margin-top: 0;font-size: 14px;
+}
+
+#mobile{
+  margin-top: 0;padding-top: 5px; font-size: 14px;
+}
+
+.pProfP{
+  font-weight: bold;font-style: italic;font-size: 20px;
+}
+
+.rowPDivs{
+  margin: 1px;
+}
+
+.row4Title{
+  font-weight: bold;font-size: 20px; margin-bottom: 0;
+}
+
+.degree{
+  margin-bottom: 0;
+}
+
+.yearAndGpa{
+  margin-bottom: 0; margin-top: 10px;
+}
+
+#personalProfileDescEducation{
+  font-size: 18px; display: flex; flex-direction: column;
+}
+
+.keySkilltop{
+  margin-bottom: 5px;
+}
+
+.keySkillelse{
+  margin-bottom: 5px; margin-top: 0;
+}
+
+#personalProfileDesc1{
+  font-size: 18px;
+}
+
+#personalProfileDesc2{
+  font-size: 18px; display: flex; flex-direction: column;
+}
+
+#lastOne{
+  font-size: 8px; display: flex; flex-direction: row;
+}
