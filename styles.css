@@ -153,10 +153,12 @@ p{
 }
 
 .keySkilltop{
+  font-size: 18px;
   margin-bottom: 5px;
 }
 
 .keySkillelse{
+  font-size: 18px;
   margin-bottom: 5px; margin-top: 0;
 }
 
